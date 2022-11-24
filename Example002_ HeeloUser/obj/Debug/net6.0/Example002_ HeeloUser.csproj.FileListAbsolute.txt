@@ -1,0 +1,15 @@
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\bin\Debug\net6.0\Example002_ HeeloUser.exe
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\bin\Debug\net6.0\Example002_ HeeloUser.deps.json
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\bin\Debug\net6.0\Example002_ HeeloUser.runtimeconfig.json
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\bin\Debug\net6.0\Example002_ HeeloUser.dll
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\bin\Debug\net6.0\Example002_ HeeloUser.pdb
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\Example002_ HeeloUser.csproj.AssemblyReference.cache
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\Example002_ HeeloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\Example002_ HeeloUser.AssemblyInfoInputs.cache
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\Example002_ HeeloUser.AssemblyInfo.cs
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\Example002_ HeeloUser.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\Example002_ HeeloUser.dll
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\refint\Example002_ HeeloUser.dll
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\Example002_ HeeloUser.pdb
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\Example002_ HeeloUser.genruntimeconfig.cache
+C:\Users\dmitr\Git\Znakomstvo s yazukami programmirovaniya\Lectures\Lesson_1\Examples\Example002_ HeeloUser\obj\Debug\net6.0\ref\Example002_ HeeloUser.dll
