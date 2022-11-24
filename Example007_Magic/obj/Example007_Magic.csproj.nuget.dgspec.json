@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmitr\\Git\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\Example007_Magic.csproj": {}
+    "C:\\Stud\\VisualStudioCode\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\Example007_Magic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmitr\\Git\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\Example007_Magic.csproj": {
+    "C:\\Stud\\VisualStudioCode\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\Example007_Magic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmitr\\Git\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+        "projectUniqueName": "C:\\Stud\\VisualStudioCode\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\Example007_Magic.csproj",
         "projectName": "Example007_Magic",
-        "projectPath": "C:\\Users\\dmitr\\Git\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+        "projectPath": "C:\\Stud\\VisualStudioCode\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\Example007_Magic.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmitr\\Git\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\obj\\",
+        "outputPath": "C:\\Stud\\VisualStudioCode\\Znakomstvo s yazukami programmirovaniya\\Lectures\\Lesson_1\\Examples\\Example007_Magic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config"
